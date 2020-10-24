@@ -11,4 +11,5 @@ dogDiv.style.top = (sHeight-108)+"px";
 
 //Ring Position
 var ringDiv = document.getElementById("ringDiv");
-ringDiv.style.left = (sWidth-(sWidth-150))+"px";
+ringDiv.style.left = (sWidth-(sWidth-130))+"px";
+ringDiv.style.top = (sHeight-(sHeight-320))+"px";

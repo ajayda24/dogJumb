@@ -16,3 +16,14 @@ body{
 #ringDiv{
     position: absolute;
 }
+
+.rings{
+    margin-left: -4.3px;
+}
+#ring3{
+    margin-left: 300px;
+}
+
+#ring5{
+    margin-left: 300px;
+}
